@@ -17,7 +17,7 @@ target 'LZDemo' do
     # Pods for testing
   end
 
-pod 'SHTool', :path => 'Lib/SHTool'
+pod 'RSHTool', :path => 'Lib/RSHTool'
 pod 'SHSecurityTool', :path => 'Lib/SHSecurityTool'
 
 end
